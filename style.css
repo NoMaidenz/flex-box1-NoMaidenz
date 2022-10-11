@@ -1,0 +1,57 @@
+html,
+body,
+* {
+padding-right:40px;
+padding-left: 40px;
+box-sizing: border-box;
+
+}
+
+.head{
+background-image: url(img/OWCC.png);
+background-repeat: no-repeat;
+background-size:contain;
+background-position: center;
+background-size: cover;
+background-color:bisque ;
+color:crimson;
+opacity: ;
+}
+.header{
+    font-size:50px;
+    text-align: center;
+    
+}
+.parent{
+    
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+
+}
+
+.child{
+    border:10px solid rgb(22, 157, 119);
+    width: 32%;
+    padding-bottom:auto;
+    margin-bottom: 2%;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    color:blueviolet;
+
+}
+.{
+
+}
+
+.img{
+    width: 600px;
+    height:600px;
+}
+.color{
+    background-color: burlywood;
+    opacity: .5;
+}
+
