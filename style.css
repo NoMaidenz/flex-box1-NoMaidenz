@@ -40,18 +40,19 @@ opacity: ;
     font-family: 'Montserrat', sans-serif;
     text-align:center;
     color:blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: ;
 
 }
-.{
 
-}
 
 .img{
-    width: 600px;
-    height:600px;
+    background-size: cover;
 }
 .color{
     background-color: burlywood;
     opacity: .5;
+    background-size: cover;
 }
 
