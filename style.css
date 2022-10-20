@@ -4,6 +4,7 @@ body,
 padding-right:40px;
 padding-left: 40px;
 box-sizing: border-box;
+overflow: hiddenx; 
 
 }
 
@@ -160,3 +161,20 @@ color:crimson;
 
 
 }
+
+.imgscaleup:hover {
+    transform:scale(1.2);
+    margin:23px;
+    
+    }
+
+    .imgscaledown:hover {
+        transform:scale(.9);
+        
+        }
+
+        .imgscaleflip:hover {
+            transform:scale(-1);
+            
+            }
+        
