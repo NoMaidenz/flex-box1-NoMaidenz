@@ -177,4 +177,17 @@ color:crimson;
             transform:scale(-1);
             
             }
+
+
+@media screen and ( max-width: 768px) {
+    .head{
+       color:rgb(183, 0, 255);
+    }
+    .styled{
+        color:red
+    }
+    
+
+
+    }
         
