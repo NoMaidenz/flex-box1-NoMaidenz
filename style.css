@@ -179,4 +179,22 @@ color:crimson;
             }
 
 
-        
+/* Styles for phones */
+@media (max-width: 375px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  /* Styles for tablets */
+  @media (max-width: 768px) {
+    body {
+      font-size: 18px;
+    }
+  }
+  
+  /* Styles for laptops */
+  @media (max-width: 1024px) {
+    body {
+      font-size: 20px;
+    }
